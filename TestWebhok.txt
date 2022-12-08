@@ -1,1 +1,1 @@
-This is to test webhook using jenkins in azure virtual machine
+This is to test webhook using jenkins in azure vm
